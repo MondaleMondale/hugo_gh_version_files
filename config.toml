@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://mondalemondale.github.io/hugo_gh_version_files"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme"
+publishDir = "docs"
